@@ -3,24 +3,24 @@
     "path": "~/workshop_lab_01/.github/workflows/publish.yaml",
     "project_path": ".github/workflows/publish.yaml",
     "type": "yaml",
-    "hash": "1262198667",
+    "hash": "174263246",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1694372935605.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "37,51",
-        "scrollLine": "29"
+        "cursorPosition": "18,0",
+        "scrollLine": "9"
     },
     "folds": "",
-    "lastKnownWriteTime": 1694372658,
+    "lastKnownWriteTime": 1694373916,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1694372951938,
+    "last_content_update": 1694373916973,
     "read_only": false,
     "read_only_alternatives": []
 }
